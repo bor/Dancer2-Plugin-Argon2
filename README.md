@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/bor/Dancer2-Plugin-Argon2.svg?branch=master)](https://travis-ci.com/bor/Dancer2-Plugin-Argon2)
+[![Build Status](https://travis-ci.org/bor/Dancer2-Plugin-Argon2.svg?branch=master)](https://travis-ci.org/bor/Dancer2-Plugin-Argon2)
 # NAME
 
 Dancer2::Plugin::Argon2 - Handling Argon2 passwords in Dancer2
