@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bor/Dancer2-Plugin-Argon2.svg?branch=master)](https://travis-ci.org/bor/Dancer2-Plugin-Argon2)
+[![Build Status](https://travis-ci.org/bor/Dancer2-Plugin-Argon2.svg?branch=master)](https://travis-ci.org/bor/Dancer2-Plugin-Argon2) [![Coverage Status](https://img.shields.io/coveralls/bor/Dancer2-Plugin-Argon2/master.svg?style=flat)](https://coveralls.io/r/bor/Dancer2-Plugin-Argon2?branch=master) [![MetaCPAN Release](https://badge.fury.io/pl/Dancer2-Plugin-Argon2.svg)](https://metacpan.org/release/Dancer2-Plugin-Argon2) [![Kritika Status](https://kritika.io/users/bor/repos/bor+Dancer2-Plugin-Argon2/heads/master/status.svg)](https://kritika.io/users/bor/repos/bor+Dancer2-Plugin-Argon2)
 # NAME
 
 Dancer2::Plugin::Argon2 - Handling Argon2 passwords in Dancer2
